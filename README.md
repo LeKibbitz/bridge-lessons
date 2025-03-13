@@ -1,2 +1,2 @@
-# bridge-cousres
+# bridge-lessons
 Bridge lessons for everyone
